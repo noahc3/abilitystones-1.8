@@ -1,0 +1,20 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "abilstones",
+    "name": "Ability Stones",
+    "description": "This mod adds magical "Ability Stones" that gives you special abilities.,
+    "version": "8.1.0.0",
+    "mcversion": "1.8.9",
+    "url": "http://noahcuroe.wix.com/mods",
+    "updateUrl": "",
+    "authorList": [ "noahc3" ],
+    "credits": "Created with help from BedrockMiner's tutorials and the wonderful moderators on the Minecraft Forge Forum",
+    "logoFile": "/assets/abilstones/logo.png",
+    "screenshots": [ "shot1.png", "shot2.png" ],
+    "requiredMods": [ "Forge" ],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": true
+  }]
+}
