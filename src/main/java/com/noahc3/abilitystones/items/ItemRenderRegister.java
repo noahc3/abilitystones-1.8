@@ -16,6 +16,9 @@ public class ItemRenderRegister {
 		reg(ModItems.swiftnessStone);
 		reg(ModItems.fireResistanceStone);
 		reg(ModItems.nightVisionStone);
+		reg(ModItems.strengthStone);
+		reg(ModItems.leapingStone);
+		reg(ModItems.saturationStone);
 		reg(ModItems.magicalDust);
 	}
 	
