@@ -2,6 +2,9 @@ item.regeneration_stone.name=Regeneration Stone
 item.swiftness_stone.name=Swiftness Stone
 item.fire_resistance_stone.name=Fire Resistance Stone
 item.night_vision_stone.name=Night Vision Stone
+item.strength_stone.name=Strength Stone
+item.leaping_stone.name=Leaping Stone
+item.saturation_stone.name=Saturation Stone
 item.magical_dust.name=Magical Dust
 item.boring_stone.name=Boring Stone
 
