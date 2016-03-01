@@ -1,6 +1,6 @@
 ## A warning
 
-A lot of the code in this mod does not follow good coding practice. I am using this mod to learn Java and the Minecraft Forge API. While the code technically works, use it at your own risk.
+A lot of the code in this mod does not follow good coding practice. I am using this mod to learn the Minecraft Forge API. While the code technically works, use it at your own risk.
 
 ## Building
 
