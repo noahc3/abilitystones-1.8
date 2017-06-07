@@ -1,3 +1,5 @@
+# The 1.8.9 version is no longer being updated.
+
 ## A warning
 
 A lot of the code in this mod does not follow good coding practice. I am using this mod to learn the Minecraft Forge API. While the code technically works, use it at your own risk.
