@@ -1,5 +1,7 @@
 # The 1.8.9 version is no longer being updated.
 
+Go [here](https://github.com/noahc3/AbilityStones) for the 1.10+ version.
+
 ## A warning
 
 A lot of the code in this mod does not follow good coding practice. I am using this mod to learn the Minecraft Forge API. While the code technically works, use it at your own risk.
